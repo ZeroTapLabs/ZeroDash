@@ -168,4 +168,6 @@ If you are building security systems that require clarity, extensibility, and re
 
 **The result: a forensic dimension previously discarded—now harvested for signal.**
 
+Read more about TEL: https://github.com/ZeroTapLabs/TEL
+
 ---
