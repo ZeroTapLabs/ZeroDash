@@ -157,7 +157,7 @@ If you are building security systems that require clarity, extensibility, and re
 
 ---
 
-Note about Zero//Stack's SDK and it's TEL usability:
+**Note about Zero//Stack's SDK and it's TEL usability:**
 
 Zero//Stack introduces the first modular observability SDK to treat the Transactional Exhaust Layer as a primary data surface. Through its Sub_Zero modules, the system:
 
