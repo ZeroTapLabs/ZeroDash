@@ -157,14 +157,15 @@ If you are building security systems that require clarity, extensibility, and re
 
 ---
 
-**Note about Zero//Stack's SDK and it's TEL usability:**
+## Note about Zero//Stack's SDK and it's TEL usability:
 
-Zero//Stack introduces the first modular observability SDK to treat the Transactional Exhaust Layer as a primary data surface. Through its Sub_Zero modules, the system:
+**Zero//Stack** introduces the first modular observability SDK to treat the Transactional Exhaust Layer as a primary data surface. Through its Sub_Zero modules, the system:
 
-• Captures exhaust from calldata, memory, and execution remnants
-• Fingerprints actors based on residual signature patterns
-• Builds an indexed exhaust map for contracts, wallets, and protocol layers
-• Feeds this data into real-time scoring, anomaly detection, and fraud alerting systems
-The result: a forensic dimension previously discarded—now harvested for signal.
+- Captures exhaust from calldata, memory, and execution remnants
+- Fingerprints actors based on residual signature patterns
+- Builds an indexed exhaust map for contracts, wallets, and protocol layers
+- Feeds this data into real-time scoring, anomaly detection, and fraud alerting systems
+
+**The result: a forensic dimension previously discarded—now harvested for signal.**
 
 ---
