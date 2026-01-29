@@ -1,8 +1,8 @@
 # Zero//Dash
-
+---
 <img width="3288" height="1599" alt="image" src="https://github.com/user-attachments/assets/1903192c-c538-480e-86d9-6a4da6665919" />
 
-
+---
 **Zero//Dash** is a real-time threat signal intelligence dashboard built as part of the **Zero//Stack** product line. It provides a unified, operator-grade interface for collecting, correlating, and visualizing security signals across multiple internal and external threat intelligence sources.
 
 Designed for security teams, infrastructure operators, and Web3-native platforms, Zero//Dash turns raw signals into actionable insight — without exposing sensitive internals or overwhelming users with noise.
